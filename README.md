@@ -19,7 +19,7 @@ SequenceRoad es un juego serio/educativo desarrollado en Unity pensado para ense
 ---
 
 # 1. Descripción
-SequenceRoad guía al jugador (niño) por una serie de niveles en los que debe ordenar o seleccionar acciones para llevar un avatar/vehículo desde un punto A hasta un punto B. Cada nivel está diseñado para medir y entrenar componentes del pilar de **algoritmia** del pensamiento computacional: descomposición, patrones, secuencias y debugging básico.
+SequenceRoad guía al jugador (niño) por una serie de niveles en los que debe ordenar o seleccionar acciones para llevar un avatar/vehículo desde un punto A hasta un punto B. Cada nivel está diseñado para medir y entrenar componentes del pilar de **algoritmia** del pensamiento computacional.
 
 El proyecto incluye:
 - Múltiples niveles con la misma interfaz y mecánicas base..

@@ -28,7 +28,7 @@ El proyecto incluye:
 - Diseñado para población infantil con TEA nivel 1.
 - Niveles progresivos (dificultad incremental).
 - Interfaz sencilla y consistente entre niveles.
-- Integración con TextMeshPro y Lottie para animaciones UI (si se usan).
+- Integración con TextMeshPro y Lottie para animaciones UI.
 
 # 3. Objetivos pedagógicos
 - Practicar la formación y ejecución de secuencias (algoritmos simples).
